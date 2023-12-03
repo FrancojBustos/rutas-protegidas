@@ -6,7 +6,7 @@ const Home = () => {
         <div className='container'>
           <div className="row">
             <div className="col text-center mt-2">
-                <NavAdelante/>
+                <NavAdelante/> 
               <h1>Home</h1>
             </div>
           </div>
